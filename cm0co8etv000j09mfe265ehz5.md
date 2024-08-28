@@ -11,4 +11,6 @@ tags: automation, n8n
 
 ---
 
-Escrevendo…
+Olá me chamo Antônio Gabriel Miranda e sou engenheiro de software, nesse meu primeiro post em meu blog gostaria de começar falando sobre uma ferramenta fantástica que tenho utilizado para automatizar pequenas tarefas do meu dia, essa ferramenta é o N8N ([https://n8n.io](https://n8n.io/)).
+
+Em seu site o n8n se apresenta como uma workflow automation platform, tem 2 motivos que me fizeram gostar da solução do n8n como ferramenta de automação logo de cara, a primeira o fato de estar disponível totalmente em docker o que facilita muito implantação do mesmo nos mais variados ambientes, e o segundo ponto que ele consegue se conectar em um infinidade enorme de parceiros para você se integrar ( [https://n8n.io/integrations](https://n8n.io/integrations/))
